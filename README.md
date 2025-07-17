@@ -1,0 +1,2 @@
+# mnist-AI
+This is a AI program using MNIST, making this my first ever code work. I used ChatGPT and Github CoPilot to serve as base and did mostly work on changing the Epoch number only, which ended up giving me a 99.23% accuracy AI. This is my first ever code dense project so most of it was AI automized and used mostly for understanding. This was made in the Brown Pre-College 3 week course called "Using AI to make AI".
